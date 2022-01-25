@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stealth</h1>
-<h3 align="center">I'm a kid whos trying to become a full stack developer</h3>
+<h3 align="center">I'm a kid who's trying to become a full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stealth1001&label=Profile%20views&color=0e75b6&style=flat" alt="stealth1001" /> </p>
 
 - 🔭 I’m currently working on **soon**
 
-- 🌱 I’m currently learning: **javascript python html vue node.js**
+- 🌱 I’m currently learning: **Javascript Python Html Vue Node.js**
 
 - 👨‍💻 All of my projects are available at [soon](soon)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [soon](soon)
 
-- ⚡ Fun fact **im procastinate a lot**
+- ⚡ Fun fact **I procastinate a lot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
